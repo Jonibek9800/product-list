@@ -1,0 +1,15 @@
+.productCard {
+    width: 250px;
+    height: 350px;
+    border: solid 1px gray;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0 10px 10px 10px;
+}
+
+.productCardImg {
+    height: 250px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    width: 100%;
+}
